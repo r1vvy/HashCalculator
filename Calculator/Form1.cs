@@ -3,7 +3,7 @@
  * @description Calculator that implements basic math functions ('+', '-', 'X', '÷', '√', '^') using hash table logic.
  * @author - Emils Seflers
  * @date - 22/09/2022
- * github - 
+ * github - r1vvy/HashCalculator
 **/
 
 using System;

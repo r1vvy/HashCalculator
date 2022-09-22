@@ -463,6 +463,7 @@
             this.textBoxResult.ForeColor = System.Drawing.Color.Black;
             this.textBoxResult.Location = new System.Drawing.Point(25, 122);
             this.textBoxResult.Name = "textBoxResult";
+            this.textBoxResult.ReadOnly = true;
             this.textBoxResult.Size = new System.Drawing.Size(298, 25);
             this.textBoxResult.TabIndex = 21;
             this.textBoxResult.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
@@ -476,6 +477,7 @@
             this.textBoxExpression.ForeColor = System.Drawing.Color.DarkGray;
             this.textBoxExpression.Location = new System.Drawing.Point(26, 90);
             this.textBoxExpression.Name = "textBoxExpression";
+            this.textBoxExpression.ReadOnly = true;
             this.textBoxExpression.Size = new System.Drawing.Size(298, 25);
             this.textBoxExpression.TabIndex = 22;
             this.textBoxExpression.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
